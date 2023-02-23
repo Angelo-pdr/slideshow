@@ -5,7 +5,7 @@
     Um slideshow no qual alteramos as imagens clicando em suas setas laterais é no navegation button é também      
     temos setInterval que altera a imagem no decorre do tempo.
 </p>
-<img src="video/slideshow.gif" alt="lampada">
+<img src="img/slideshow.png" alt="slideshow">
 
 ## Tecnologia utilizada
 
